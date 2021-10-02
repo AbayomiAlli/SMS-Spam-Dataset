@@ -10,22 +10,41 @@ What am I looking at? This repository contains the raw SMS data. However, we hav
 The total number of SMS messages for each participant (in CSV) and their metadata is as follows:
 
   •	User 1 contains 53 messages.
+  
   •	User 2 contains 130 messages.
+  
   •	User 3 contains 23 messages.
+  
   •	User 4 contains 182 messages.
+  
   •	User 5 contains 122 messages.
+  
   •	User 6 contains 116 messages.
+  
   •	User 7 contains 235 messages.
+  
   •	User 8 contains 34 messages.
+  
   •	User 9 contains 49 messages.
+  
   •	User 10 contains 633 messages.
+  
   •	User 11 contains 243 messages.
+  
   •	User 12 contains 387 messages.
+  
   •	User 13 contains 117 messages.
+  
   •	User 14 contains 227 messages.
+  
   •	User 15 contains 605 messages.
+  
   •	User 1 6contains 1082 messages.
+  
   •	User 17 contains 180 messages.
+  
   •	User 18 contains 167 messages.
+  
   •	User 19 contains 626 messages.
+  
   •	User 20 contains 29 messages.
